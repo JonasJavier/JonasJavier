@@ -18,13 +18,15 @@ The production source code is private, but the product, architecture, engineerin
 
 [View case study →](https://github.com/JonasJavier/omsta-case-study) · [Architecture](https://github.com/JonasJavier/omsta-case-study/blob/main/docs/architecture.md)
 
-### Jonas Orbit - Interactive portfolio
+### Jonas Orbit — Interactive portfolio
 
 An experimental portfolio that combines product storytelling, cinematic interaction, 3D graphics, accessibility, and performance-conscious web engineering.
 
 **Stack:** Next.js · React · TypeScript · Three.js · Tailwind CSS · Vitest · Playwright · Cloudflare
 
-> Currently in development. The source and live experience will be published when the first release is ready.
+[View source →](https://github.com/JonasJavier/jonas-orbit) · [Preview notes](https://github.com/JonasJavier/jonas-orbit#readme)
+
+The public source release is prepared from a clean export of the private working repository. The live domain will be added when the portfolio is in production.
 
 ### Other projects
 
@@ -52,7 +54,7 @@ An experimental portfolio that combines product storytelling, cinematic interact
 ## Currently
 
 - Maintaining and evolving production software
-- Building Jonas Orbit and documenting real-world engineering case studies
+- Evolving Jonas Orbit and documenting real-world engineering case studies
 - Studying CS50's Introduction to Artificial Intelligence with Python
 
 ## Contact

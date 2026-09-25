@@ -30,8 +30,8 @@ The public source release is prepared from a clean export of the private working
 
 ### Other projects
 
-- [Wiki Universe](https://github.com/JonasJavier/Wikipedia-) - Full-stack knowledge platform with structured content, search, authentication, and revision history.
-- [Network 3.0](https://github.com/JonasJavier/Network-3.0) - Social web application with feeds, profiles, image posts, likes, nested comments, and notifications.
+- [CS50W Wiki](https://github.com/JonasJavier/cs50w-wiki) - Full-stack knowledge platform with structured content, search, authentication, and revision history.
+- [CS50W Network](https://github.com/JonasJavier/cs50w-network) - Social web application with feeds, profiles, image posts, likes, nested comments, and notifications.
 - [Delicate](https://github.com/JonasJavier/eCommerce-Delicate) - E-commerce experience for an artisan soap brand, from UX/UI through full-stack implementation.
 
 ## What I work with

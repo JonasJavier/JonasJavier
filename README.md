@@ -28,11 +28,20 @@ An experimental portfolio that combines product storytelling, cinematic interact
 
 The public source release is prepared from a clean export of the private working repository. The live domain will be added when the portfolio is in production.
 
+### Izak's Photos — Bilingual photography portfolio
+
+A production photography experience with an editorial React interface, English and Spanish content, a Django REST booking API, and a single-service Railway deployment.
+
+**My role:** Full-stack evolution, responsive UI, bilingual product experience, API integration, deployment preparation, testing, and technical documentation.
+
+**Stack:** Django · Django REST Framework · React · Vite · Railway
+
+[Visit live site →](https://izaksphotos.jonasjavier.dev) · [View source](https://github.com/JonasJavier/IZAK-S-PHOTOS)
+
 ### Other projects
 
 - [CS50W Wiki](https://github.com/JonasJavier/cs50w-wiki) - Full-stack knowledge platform with structured content, search, authentication, and revision history.
 - [CS50W Network](https://github.com/JonasJavier/cs50w-network) - Social web application with feeds, profiles, image posts, likes, nested comments, and notifications.
-- [Delicate](https://github.com/JonasJavier/eCommerce-Delicate) - E-commerce experience for an artisan soap brand, from UX/UI through full-stack implementation.
 
 ## What I work with
 

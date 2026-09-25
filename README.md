@@ -6,7 +6,7 @@ I build production web applications with **Django, Django REST Framework, React,
 
 ## Selected work
 
-### OMSTA - Travel agency ERP
+### OMSTA — Travel operations ERP
 
 A production system that connects reservations, CRM, payments, double-entry accounting, payroll, branches, permissions, and Dominican tax reporting in one operational platform.
 
@@ -14,7 +14,9 @@ A production system that connects reservations, CRM, payments, double-entry acco
 
 **Stack:** Python · Django · Django REST Framework · PostgreSQL · Redis · Django Q2 · Railway
 
-> The production source code is private. A public, sanitized case study is in preparation.
+The production source code is private, but the product, architecture, engineering decisions, and selected interfaces are documented in a sanitized public case study.
+
+[View case study →](https://github.com/JonasJavier/omsta-case-study) · [Architecture](https://github.com/JonasJavier/omsta-case-study/blob/main/docs/architecture.md)
 
 ### Jonas Orbit - Interactive portfolio
 

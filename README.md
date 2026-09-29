@@ -1,73 +1,46 @@
-# Hi, I'm Jonas Javier Encarnacion
+<div align="center">
 
-Full-stack developer and digital product designer based in the Dominican Republic.
+# Hi, I'm Jonás Javier Encarnación 👋
 
-I build production web applications with **Django, Django REST Framework, React, TypeScript, PostgreSQL, and Redis**. I care about the full product: domain modeling, reliable backend systems, accessible interfaces, UX, and the business problem behind the software.
+**Full-stack developer · Product-minded engineer · UX/UI designer**
 
-## Selected work
+Building useful, accessible web products from the Dominican Republic.
 
-### OMSTA — Travel operations ERP
+[🌐 Portfolio](https://jonasjavier.dev) · [💼 LinkedIn](https://www.linkedin.com/in/jonas-javier-247b50425/) · [✉️ Email](mailto:jonasjavier.dev@gmail.com)
 
-A production system that connects reservations, CRM, payments, double-entry accounting, payroll, branches, permissions, and Dominican tax reporting in one operational platform.
+</div>
 
-**My role:** Full-stack development, system architecture, product design, deployment, and production maintenance.
+I work across product design and engineering: shaping the problem, modeling the domain, building the interface and API, and maintaining the result in production. My main tools are **Python, Django REST Framework, React, TypeScript, PostgreSQL, and Redis**.
 
-**Stack:** Python · Django · Django REST Framework · PostgreSQL · Redis · Django Q2 · Railway
+> You may also find me as **Jonas Javier Encarnacion** or **Jonas Javier**. My full name is **Jonás Javier Encarnación**.
 
-The production source code is private, but the product, architecture, engineering decisions, and selected interfaces are documented in a sanitized public case study.
+## 🚀 Featured work
 
-[View case study →](https://github.com/JonasJavier/omsta-case-study) · [Architecture](https://github.com/JonasJavier/omsta-case-study/blob/main/docs/architecture.md)
+| Project | What I built | Explore |
+| --- | --- | --- |
+| **Jonás Orbit** 🪐 | My interactive portfolio: a hand-built WebGL2 star system with accessible, server-rendered routes and detailed project stories. Next.js, React, TypeScript, Three.js. | [Live site](https://jonasjavier.dev) · [Source](https://github.com/JonasJavier/jonas-orbit-v3) |
+| **OMSTA** 🧭 | A production travel operations ERP connecting reservations, CRM, payments, accounting, payroll, and Dominican tax workflows. I work on its architecture, full-stack development, product design, deployment, and maintenance. | [Public case study](https://github.com/JonasJavier/omsta-case-study) |
+| **Wikiverse** 📚 | An encyclopedia with revision history, word-level diffs, discussions, and full-text search. Django REST Framework, React, PostgreSQL. | [Source](https://github.com/JonasJavier/wikiverse) |
+| **Izak's Photos** 📷 | A bilingual photography portfolio with an editorial React interface and a Django REST booking API. | [Live site](https://izaksphotos.jonasjavier.dev) · [Source](https://github.com/JonasJavier/IZAK-S-PHOTOS) |
+| **Delicaté 4.0** 🧼 | A storefront for handmade soaps with a Django REST catalog, React interface, and WhatsApp ordering. | [Source](https://github.com/JonasJavier/Delicate-4.0) |
 
-### Jonas Orbit — Interactive portfolio
+The OMSTA production code is private; its public case study documents the product and engineering decisions without exposing client data.
 
-An experimental portfolio that combines product storytelling, cinematic interaction, 3D graphics, accessibility, and performance-conscious web engineering.
+## 🧰 What I use
 
-**Stack:** Next.js · React · TypeScript · Three.js · Tailwind CSS · Vitest · Playwright · Cloudflare
+| Area | Tools and practices |
+| --- | --- |
+| **Backend** | Python · Django · Django REST Framework · PostgreSQL · Redis · REST APIs |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
+| **Quality & delivery** | Pytest · Vitest · Playwright · GitHub Actions · Railway · Cloudflare |
+| **Product & design** | UX/UI · accessibility · Figma · user research · product strategy |
 
-[View source →](https://github.com/JonasJavier/jonas-orbit) · [Preview notes](https://github.com/JonasJavier/jonas-orbit#readme)
+## 🌱 More about me
 
-The public source release is prepared from a clean export of the private working repository. The live domain will be added when the portfolio is in production.
+- Studied computer science and web development through Harvard's **CS50x** and **CS50W** courses.
+- Completed a **207-hour digital marketing program** with EducacionIT and Manhattan University.
+- Interested in the intersection of reliable software, clear design, accessibility, and measurable product outcomes.
 
-### Izak's Photos — Bilingual photography portfolio
+## 🤝 Let's connect
 
-A production photography experience with an editorial React interface, English and Spanish content, a Django REST booking API, and a single-service Railway deployment.
-
-**My role:** Full-stack evolution, responsive UI, bilingual product experience, API integration, deployment preparation, testing, and technical documentation.
-
-**Stack:** Django · Django REST Framework · React · Vite · Railway
-
-[Visit live site →](https://izaksphotos.jonasjavier.dev) · [View source](https://github.com/JonasJavier/IZAK-S-PHOTOS)
-
-### Other projects
-
-- [CS50W Wiki](https://github.com/JonasJavier/cs50w-wiki) - Full-stack knowledge platform with structured content, search, authentication, and revision history.
-- [CS50W Network](https://github.com/JonasJavier/cs50w-network) - Social web application with feeds, profiles, image posts, likes, nested comments, and notifications.
-
-## What I work with
-
-**Backend:** Python · Django · Django REST Framework · PostgreSQL · Redis · REST APIs
-
-**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS
-
-**Quality & delivery:** Pytest · Vitest · Playwright · GitHub Actions · Railway · Cloudflare
-
-**Product & design:** UX/UI · Accessibility · Figma · Product thinking · Digital strategy
-
-## Background
-
-- Harvard CS50x - Introduction to Computer Science
-- Harvard CS50W - Web Programming with Python and JavaScript
-- Digital Marketing Program - EducacionIT & Manhattan University, 207 hours
-- Additional training in UX, user research, accessibility, SEO, analytics, and design thinking
-
-## Currently
-
-- Maintaining and evolving production software
-- Evolving Jonas Orbit and documenting real-world engineering case studies
-- Studying CS50's Introduction to Artificial Intelligence with Python
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/jonas-javier-247b50425/) · [Email](mailto:jonasjavier.dev@gmail.com)
-
-
+Explore my work at [jonasjavier.dev](https://jonasjavier.dev), connect on [LinkedIn](https://www.linkedin.com/in/jonas-javier-247b50425/), or email me at [jonasjavier.dev@gmail.com](mailto:jonasjavier.dev@gmail.com).

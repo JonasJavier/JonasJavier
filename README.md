@@ -20,9 +20,9 @@ I work across product design and engineering: shaping the problem, modeling the 
 | --- | --- | --- |
 | **Jonás Orbit** 🪐 | My interactive portfolio: a hand-built WebGL2 star system with accessible, server-rendered routes and detailed project stories. Next.js, React, TypeScript, Three.js. | [Live site](https://jonasjavier.dev) · [Source](https://github.com/JonasJavier/jonas-orbit-v3) |
 | **OMSTA** 🧭 | A production travel operations ERP connecting reservations, CRM, payments, accounting, payroll, and Dominican tax workflows. I work on its architecture, full-stack development, product design, deployment, and maintenance. | [Public case study](https://github.com/JonasJavier/omsta-case-study) |
-| **Wikiverse** 📚 | An encyclopedia with revision history, word-level diffs, discussions, and full-text search. Django REST Framework, React, PostgreSQL. | [Source](https://github.com/JonasJavier/wikiverse) |
+| **Wikiverse** 📚 | An encyclopedia with revision history, word-level diffs, discussions, and full-text search. Django REST Framework, React, PostgreSQL. | [Live site](https://wikiverse.jonasjavier.dev) · [Source](https://github.com/JonasJavier/wikiverse) |
 | **Izak's Photos** 📷 | A bilingual photography portfolio with an editorial React interface and a Django REST booking API. | [Live site](https://izaksphotos.jonasjavier.dev) · [Source](https://github.com/JonasJavier/IZAK-S-PHOTOS) |
-| **Delicaté 4.0** 🧼 | A storefront for handmade soaps with a Django REST catalog, React interface, and WhatsApp ordering. | [Source](https://github.com/JonasJavier/Delicate-4.0) |
+| **Delicaté 4.0** 🧼 | A storefront for handmade soaps with a Django REST catalog, React interface, and WhatsApp ordering. | [Live site](https://delicate.jonasjavier.dev) · [Source](https://github.com/JonasJavier/Delicate-4.0) |
 
 The OMSTA production code is private; its public case study documents the product and engineering decisions without exposing client data.
 

@@ -8,6 +8,9 @@ Building useful, accessible web products from the Dominican Republic.
 
 [🌐 Portfolio](https://jonasjavier.dev) · [💼 LinkedIn](https://www.linkedin.com/in/jonas-javier-encarnacion/) · [✉️ Email](mailto:jonasjavier.dev@gmail.com)
 
+
+[📄 CV · Español](https://jonasjavier.dev/cv/jonas-javier-cv-es.pdf) · [CV · English](https://jonasjavier.dev/cv/jonas-javier-cv-en-ats.pdf)
+
 </div>
 
 I work across product design and engineering: shaping the problem, modeling the domain, building the interface and API, and maintaining the result in production. My main tools are **Python, Django REST Framework, React, TypeScript, PostgreSQL, and Redis**.

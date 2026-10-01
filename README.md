@@ -6,7 +6,7 @@
 
 Building useful, accessible web products from the Dominican Republic.
 
-[🌐 Portfolio](https://jonasjavier.dev) · [💼 LinkedIn](https://www.linkedin.com/in/jonas-javier-247b50425/) · [✉️ Email](mailto:jonasjavier.dev@gmail.com)
+[🌐 Portfolio](https://jonasjavier.dev) · [💼 LinkedIn](https://www.linkedin.com/in/jonas-javier-encarnacion/) · [✉️ Email](mailto:jonasjavier.dev@gmail.com)
 
 </div>
 
@@ -43,4 +43,4 @@ The OMSTA production code is private; its public case study documents the produc
 
 ## 🤝 Let's connect
 
-Explore my work at [jonasjavier.dev](https://jonasjavier.dev), connect on [LinkedIn](https://www.linkedin.com/in/jonas-javier-247b50425/), or email me at [jonasjavier.dev@gmail.com](mailto:jonasjavier.dev@gmail.com).
+Explore my work at [jonasjavier.dev](https://jonasjavier.dev), connect on [LinkedIn](https://www.linkedin.com/in/jonas-javier-encarnacion/), or email me at [jonasjavier.dev@gmail.com](mailto:jonasjavier.dev@gmail.com).
